@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaraLearns
 - 👀 I’m interested in mandala art and coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development and Python
 - 📫 You can reach me at umarah.siddiqui@gmail.com
 
 <!---
